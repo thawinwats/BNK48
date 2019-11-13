@@ -1,0 +1,17 @@
+{
+  "name": "bnk48",
+  "version": "1.0.0",
+  "description": "Get all images of BNK48",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thawinwats.u",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
